@@ -8,3 +8,5 @@
 #### When a Pull Request goes stale:
 
 #### When feedback is left:
+
+#### When feedback is addressed:
