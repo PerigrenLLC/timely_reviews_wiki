@@ -5,3 +5,5 @@
 Timely Reviews is
 
 ### FAQS
+
+* Some faqs about the faqs
